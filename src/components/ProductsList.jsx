@@ -65,10 +65,6 @@ const onExportClick = () => {
    <div >
      <button onClick={onExportClick} className='exportBtn'>Export Excel</button>
      <button onClick={fetchData} className='exportBtn'>Rest APi</button>
-     {/* <Import /> */}
-     {/* <ReadExcel /> */}
-      {/* <ModalExample /> */}
-      {/* <input type="file" onChange={onChange}  /> */}
      <br />
      <br />
      <br />
